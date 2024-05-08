@@ -34,9 +34,6 @@ There are no good themes out there that mimic the Australis UI properly without 
 * Replaces the Firefox Menu with the Overflow Menu
 * Classic icons
 * Toggle between OS themes
-* Fully designable: includes a Windows 7 Metro concept, Windows 8 Developer Preview, Windows 8.1 Update 3, Windows 11 Metro concept and Windows 11 Fluent concept styles by default, or you can define your custom theme instead.
-* Pin anything to the Charms Bar for easy access
-* Switch between Win32 and Metro mode for the currently-focused program.
 
 ## Supported languages
 * Engllish
@@ -48,7 +45,7 @@ There are no good themes out there that mimic the Australis UI properly without 
 Downloads are coming soon in the near future
 
 ## Q&As
-To be added.
+To be added...
 
 ## Disclaimer
 I'm not officially affiliated with Mozilla.
